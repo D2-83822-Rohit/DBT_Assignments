@@ -1,0 +1,19 @@
+1) Which field of the Customers table is the primary key?
+Answer =>
+Cnum field of Customers table is the primary Key.
+
+2) What is the 4th column of the Customers table?
+Answer =>
+The 4th column of customers table is Rating 
+
+3) What is another word for row? For column?
+Answer =>
+A row, or record, is also known as a tuple. 
+The columns in a table is a field or an attribute.
+
+4) Why isn’t it possible to see the first five
+rows of a table?
+Answer =>
+when you select row from table, the order of rows in the output will depend on the row address, it will be in the ascending order of row address.
+Once you insert a row , the row adress will be constant. and when you update the row if the row length is increasing and if the free space is not available then the entire row will be moved to some other address.
+when you update a row the row address may change.

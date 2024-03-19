@@ -1,0 +1,8 @@
+1) Does ANSI recognize the data type DATE?
+Answer=>
+Yes date complies with the ANSI standard definition.
+
+2) Which subdivision of SQL is used to insert
+values in tables?
+Answer=>
+In SQl the DML Data Manipulation Language components have command called an insert command to insert data values in tables.
